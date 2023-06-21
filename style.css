@@ -24,18 +24,3 @@ textarea {
   color: rgb(0, 0, 0);
   font-family: 'Roboto Mono';
 }
-
-@media (max-width: 767px) {
-
-  html, body {
-    margin: 0; 
-  }
-
-  h1 {
-    font-size: 4em; 
-  }
-
-  p, textarea {
-    font-size: 2em; 
-  }
-}
