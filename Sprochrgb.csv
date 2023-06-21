@@ -1,0 +1,101 @@
+﻿Zahlen,Wörter,Übersetzung,Noten,Note 2,R1,G1,B1,R2,G2,B2
+1,air,"Luft, Wind",d1,,236,0,140,99,100,102
+2,all,alles,e1,,241,102,135,99,100,102
+3,and,und,f1,,246,150,121,99,100,102
+4,animal,Tier,g1,,254,195,90,99,100,102
+5,be,sein,a1,,255,242,0,99,100,102
+6,blue,Blau,h1,,200,220,156,99,100,102
+7,but,aber,c2,,130,202,156,99,100,102
+8,can,"Möglichkeit, können",d2,,0,186,198,99,100,102
+9,choose,"aussuchen, entscheiden, wählen, Wahl",e2,,0,174,239,99,100,102
+10,ciao,"hallo, tschüss",d1 ,f2,236,0,140,99,100,102
+11,colour,Farbe,d1 d1,d1,236,0,140,236,0,140
+12,creativ,"kreativ, verspielt, künstlerisch, Entertainment",d1 e1,e1,236,0,140,241,102,135
+13,do,machen,d1 f1 ,f1,236,0,140,246,150,121
+14,dude,Bursch,d1 g1,g1,236,0,140,254,195,90
+15,ear,"Ohr, hören, zuhören, aufpassen",d1 a1,a1,236,0,140,255,242,0
+16,earth,"Erde, Land",d1 h1,h1,236,0,140,200,220,105
+17,edge,"Ecken, Kante",d1 c2,c2,236,0,140,130,202,156
+18,end,"Ende, beendet, fertig, vorbei",d1 d2,d2,236,0,140,0,186,198
+19,energy,Energie,d1 e2,e2,236,0,140,0,174,239
+20,event,Ereigniss,e1 f2,f2,241,102,135,99,100,102
+21,fire,"Feuer, warm",e1 d1,,241,102,135,236,0,140
+22,flat,"flach, neutral",e1 e1,,241,102,135,241,102,135
+23,foot,"Fuss, Bein, stehen",e1 f1 ,,241,102,135,246,150,121
+24,fun,"Spass, Glück, Spiel",e1 g1,,241,102,135,254,195,90
+25,fungi,"Pilz, faul, dreckig",e1 a1,,241,102,135,255,195,0
+26,give,"geben, nehmen, bekommen, Geschenk",e1 h1,,241,102,135,200,220,105
+27,glutes,"Hintern, sitzen",e1 c2,,241,102,135,130,202,156
+28,good,Gut,e1 d2,,241,102,135,0,186,198
+29,hand,"Hand, fühlen, 5",e1 e2,,241,102,135,0,174,239
+30,have,haben,f1 f2,,246,150,121,99,100,102
+31,head,"Kopf, denken, Gedanken, Sorgen",f1 d1,,246,150,121,236,0,140
+32,heart,"Herz, fühlen, Leben, leben, Liebe",f1 e1,,246,150,121,241,102,135
+33,here,hier,f1 f1,,246,150,121,246,150,121
+34,hole,Loch,f1 g1,,246,150,121,254,195,90
+35,hug,"Umarmung, halten",f1 a1,,246,150,121,255,242,0
+36,I,Ich,f1 h1,,246,150,121,200,220,105
+37,in,in,f1 c2,,246,150,121,130,202,156
+38,iris,"Auge, sehen, aussehnen, zeigen",f1 d2,,246,150,121,0,186,198
+39,it,das,f1 e2,,246,150,121,0,174,198
+40,knowledge,"Wissen, wissen, kennen, schlau",g1 f2,,254,195,90,99,100,102
+41,light,"Licht, hell",g1 d1,,254,195,90,236,0,140
+42,like,wie,g1 e1,,254,195,90,241,102,135
+43,line,Linie,g1 f1,,254,195,90,246,150,121
+44,liquid,"Flüssigkeit, Wasser",g1 g1,,254,195,90,254,195,90
+45,little,"klein, wenig",g1 a1,,254,195,90,255,242,0
+46,long,lang,g1 h1,,254,195,90,200,220,105
+47,machine,Maschine,g1 c2 ,,254,195,90,130,202,156
+48,many,viel,g1 d2,,254,195,90,0,186,198
+49,money,"Geld, kaufen",g1 e2,,254,195,90,0,174,198
+50,more,mehr,a1 f2,,255,242,0,99,100,102
+51,mouth,"Mund, sagen, reden",a1 d1,,255,242,0,236,0,140
+52,move,bewegung,a1 e1,,255,242,0,241,102,135
+53,need,brauchen,a1 f1,,255,242,0,246,150,121
+54,nose,"Nase, riechen, atmen, vorne",a1 g1,,255,242,0,254,195,90
+55,not,"nein, nicht",a1 a1,,255,242,0,0,174,239
+56,of,"von, weil",a1 h1,,255,242,0,200,220,105
+57,on,auf,a1 c2,,255,242,0,130,202,156
+58,one,"eins, erstens",a1 d2,,255,242,0,0,186,198
+59,open,"anmachen, anschalten, offen",a1 e2,,255,242,0,0,175,239
+60,or,oder,h1 f2,,200,220,105,99,100,102
+61,other,"nochmals, anders, neu",h1 d1,,200,220,105,236,0,140
+62,parent,Eltern,h1 e1,,200,220,105,241,102,135
+63,Person,"er, sie , Person, Mensch",h1 f1,,200,220,105,246,150,121
+64,place,"Ort, Platz",h1 g1,,200,220,105,254,195,90
+65,plant,Pflanze,h1 a1,,200,220,105,0,174,239
+66,public,"Öffentlichkeit, öffentlich, politisch, Gesellschaft",h1 h1,,200,220,105,200,220,105
+67,question,"Frage, wer, wie, wo, was, wann, warum etc.",h1 c2,,200,220,105,130,202,156
+68,red,Rot,h1 d2,,200,220,105,0,186,198
+69,round,"Ball, Kurve",h1 e2,,200,220,105,0,175,239
+70,sad,traurig,c2 f2,,130,202,156,99,100,102
+71,save,"sicher, Vertrauen, Sicherheit",c2 d1,,130,202,156,236,0,140
+72,sibling,Geschwister,c2 e1,,130,202,156,241,102,135
+73,sick,"krank, kaputt, sauer",c2 f1,,130,202,156,246,150,121
+74,silly,"Witz, lustig",c2 g1,,130,202,156,254,195,90
+75,skin,"Haut, Fassade, Oberfläche",c2 a1,,130,202,156,0,174,239
+76,sky,"Himmel, oben, heilig, Religion, Glaube",c2 h1,,130,202,156,200,220,105
+77,sleep,"Schlaf, erholung",c2 c2,,130,202,156,130,202,156
+78,sorry,entschuldigung,c2 d2,,130,202,156,0,186,198
+79,sound,Ton,c2 e2,,130,202,156,0,175,239
+80,speed,"Geschindigkeit, schnell",d2 f2,,0,186,198,99,100,102
+81,stone,"Stein, wichtig, hart, schwer",d2 d1,,0,186,198,236,0,140
+82,structure,"Struktur, Haus, Gebäude, Raum",d2 e1,,0,186,198,241,102,135
+83,substance,"Nahrung, essen, trinken, konsumieren",d2 f1,,0,186,198,246,150,121
+84,sweet,"Zucker, süss",d2 g1,,0,186,198,254,195,90
+85,symbol,"Symbol, Zeichen, Ziffern",d2 a1,,0,186,198,0,174,239
+86,thank,Danke,d2 h1,,0,186,198,200,220,105
+87,the,der/die/das,d2 c2,,0,186,198,130,202,156
+88,Thing,"Objekt, Ding",d2 d2,,0,186,198,0,186,198
+89,time,"Zeit, wenn",d2 e2,,0,186,198,0,175,239
+90,to,für,e2 f2,,0,174,239,99,100,102
+91,two,"zwei, next",e2 d1,,0,174,239,236,0,140
+92,way,"Weg, Plan, Richtung",e2 e1,,0,174,239,241,102,135
+93,will,werden,e2 f1,,0,174,239,246,150,121
+94,with,mit,e2 g1,,0,174,239,254,195,90
+95,word,"Wort, Name, heissen",e2 a1,,0,174,239,0,174,239
+96,work,"Arbeit, arbeiten, Projekt",e2 h1,,0,174,239,200,220,105
+97,yellow,Gelb,e2 c2,,0,174,239,130,202,156
+98,yes,Ja,e2 d2,,0,174,239,0,186,198
+99,you,Du,e2 e2,,0,174,239,0,175,239
+0,,,f2,,99,100,102,99,100,102

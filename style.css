@@ -1,0 +1,29 @@
+html, body {
+  background: #ffffff;
+  margin: 2%;
+  padding: 0;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+  font-family: 'Roboto Mono';
+}
+
+p {
+  font-size: 10px;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+  font-family: 'Roboto Mono';
+}
+
+textarea {
+  font-size: 15px;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+  font-family: 'Roboto Mono';
+}
+
+
+
