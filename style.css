@@ -5,25 +5,37 @@ html, body {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2em;
   font-weight: 600;
   color: rgb(0, 0, 0);
   font-family: 'Roboto Mono';
 }
 
 p {
-  font-size: 10px;
+  font-size: 1em;
   font-weight: 400;
   color: rgb(0, 0, 0);
   font-family: 'Roboto Mono';
 }
 
 textarea {
-  font-size: 15px;
+  font-size: 1em;
   font-weight: 400;
   color: rgb(0, 0, 0);
   font-family: 'Roboto Mono';
 }
 
+@media (max-width: 767px) {
 
+  html, body {
+    margin: 0; 
+  }
 
+  h1 {
+    font-size: 4em; 
+  }
+
+  p, textarea {
+    font-size: 2em; 
+  }
+}
